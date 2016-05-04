@@ -17,6 +17,7 @@
 \contentsline {chapter}{\numberline {5}Implementierung}{15}{chapter.5}
 \contentsline {section}{\numberline {5.1}Abschnitt 1}{15}{section.5.1}
 \contentsline {section}{\numberline {5.2}Abschnitt 2}{15}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Neuer Titel}{15}{subsection.5.2.1}
 \contentsline {chapter}{\numberline {6}Evaluierung}{17}{chapter.6}
 \contentsline {section}{\numberline {6.1}Abschnitt 1}{17}{section.6.1}
 \contentsline {section}{\numberline {6.2}Abschnitt 2}{17}{section.6.2}
